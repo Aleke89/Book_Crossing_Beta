@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/user_rating_background"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_margin="10dp"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/user_rating_person_img"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@drawable/icon_profile" />
+
+    <TextView
+        android:id="@+id/user_rating_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@id/user_rating_person_img"
+        android:text="Name"
+        android:textSize="16dp" />
+
+    <ImageView
+        android:id="@+id/user_rating_star_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/user_rating_name"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/user_rating_person_img"
+        android:src="@drawable/ic_baseline_stars_24_black"
+        app:tint="@color/black" />
+    <TextView
+        android:id="@+id/user_rating_star_number"
+        android:textSize="18dp"
+        android:text="0"
+        android:layout_toRightOf="@id/user_rating_star_img"
+        android:layout_below="@id/user_rating_name"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <ImageView
+        android:id="@+id/user_rating_book_img"
+        android:src="@drawable/ic_baseline_book_24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/user_rating_star_number"
+        android:layout_below="@id/user_rating_name"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        app:tint="@color/black" />
+    <TextView
+        android:id="@+id/user_rating_book_number"
+        android:layout_toRightOf="@id/user_rating_book_img"
+        android:layout_below="@id/user_rating_name"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        android:textSize="18dp"
+        android:text="0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <ImageView
+        android:id="@+id/user_rating_note_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/user_rating_name"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/user_rating_book_number"
+        android:src="@drawable/ic_baseline_rate_review_24"
+        app:tint="@color/black" />
+
+    <TextView
+        android:id="@+id/user_rating_note_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/user_rating_name"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/user_rating_note_img"
+        android:text="0"
+        android:textSize="18dp" />
+
+    <TextView
+        android:id="@+id/user_rating_profession"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/user_rating_star_img"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/user_rating_person_img"
+        android:text="Profession"
+        android:textSize="18dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/user_rating_name"
+        android:layout_marginLeft="40dp"
+        android:layout_toRightOf="@id/user_rating_note_number"
+        android:text="1"
+        android:textColor="@color/black"
+        android:textSize="40dp" />
+</RelativeLayout>

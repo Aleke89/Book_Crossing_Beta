@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/book_hp_background_first"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".book_homepage.Book_home_page_Activity">
+
+    <RelativeLayout
+        android:id="@+id/book_hp_background"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/purple_500">
+
+        <ImageView
+            android:id="@+id/book_hp_img"
+            android:layout_width="140dp"
+            android:layout_height="140dp"
+            android:layout_marginTop="40dp"
+            android:src="@drawable/ic_baseline_book_24" />
+
+        <TextView
+            android:id="@+id/book_hp_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:layout_toRightOf="@id/book_hp_img"
+            android:text="Name of book"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/book_hp_Author"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/book_hp_name"
+            android:layout_toRightOf="@id/book_hp_img"
+            android:text="Author"
+            android:textColor="@color/white"
+            android:textSize="17dp" />
+
+        <TextView
+            android:id="@+id/book_hp_page"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/book_hp_Author"
+            android:layout_toRightOf="@id/book_hp_img"
+            android:text="Page:"
+            android:textColor="@color/white"
+            android:textSize="17dp" />
+
+        <TextView
+            android:id="@+id/book_hp_page_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/book_hp_Author"
+            android:layout_toRightOf="@id/book_hp_page"
+            android:text="0"
+            android:textColor="@color/white"
+            android:textSize="17dp" />
+
+        <TextView
+            android:id="@+id/book_hp_rating"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/book_hp_page"
+            android:layout_toRightOf="@id/book_hp_img"
+            android:text="Rating:"
+            android:textColor="@color/white"
+            android:textSize="17dp" />
+
+        <RatingBar
+            android:id="@+id/book_hp_rating_bar"
+            style="@style/Widget.AppCompat.RatingBar.Small"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/book_hp_page"
+            android:layout_marginTop="5dp"
+            android:layout_toRightOf="@id/book_hp_rating"
+            android:numStars="5"
+            android:progressTint="#FFCC01"
+            android:stepSize="0.1" />
+
+        <TextView
+            android:id="@+id/book_hp_genre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/book_hp_rating"
+            android:layout_toRightOf="@id/book_hp_img"
+            android:text="@string/Genre"
+            android:textColor="@color/white"
+            android:textSize="17dp" />
+
+        <TextView
+            android:id="@+id/book_hp_genre_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/book_hp_rating"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@id/book_hp_genre"
+            android:text="Classic"
+            android:textColor="@color/white"
+            android:textSize="17dp" />
+
+        <TextView
+            android:id="@+id/book_hp_amount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/book_hp_genre"
+            android:layout_toRightOf="@id/book_hp_img"
+            android:text="@string/Amount"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/book_hp_amount_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/book_hp_genre"
+            android:layout_marginLeft="2dp"
+
+            android:layout_marginTop="-2dp"
+            android:layout_toRightOf="@id/book_hp_amount"
+            android:text="0"
+            android:textColor="@color/white"
+            android:textSize="17dp" />
+
+        <Button
+            android:id="@+id/book_hp_read_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/book_hp_amount"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/green"
+            android:text="@string/read_the_book"
+            app:cornerRadius="25dp" />
+    </RelativeLayout>
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tabLayout"
+        android:layout_marginTop="16dp" />
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/book_hp_background"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:backgroundTint="@color/white"
+        android:elevation="10dp"
+        app:tabGravity="fill"
+        app:tabIconTint="@color/purple_500"
+        app:tabIndicatorColor="@color/purple_500"
+        app:tabIndicatorHeight="5dp"
+        app:tabMaxWidth="0dp"
+        app:tabMode="fixed"
+        app:tabSelectedTextColor="@color/purple_500"
+        app:tabTextAppearance="@android:style/TextAppearance.Widget.TabWidget">
+
+        <com.google.android.material.tabs.TabItem
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/ic_baseline_book_24"
+            android:text="@string/description" />
+
+        <com.google.android.material.tabs.TabItem
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/ic_baseline_cloud_done_24"
+            android:text="@string/reading_user" />
+
+        <com.google.android.material.tabs.TabItem
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/ic_sharp_edit_calendar_24"
+            android:text="@string/already_read" />
+
+        <com.google.android.material.tabs.TabItem
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/ic_baseline_thumb_up_24"
+            android:text="@string/reviews" />
+    </com.google.android.material.tabs.TabLayout>
+</RelativeLayout>

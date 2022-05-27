@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SDU</string>
+    <string name="Books">Кітаптар</string>
+    <string name="Rules">Ереже</string>
+    <string name="Group">Группа:</string>
+    <string name="About">Біз туралы</string>
+    <string name="Change_Language">Тілді өзгерту</string>
+    <string name="Sign_in">Кіру</string>
+    <string name="Genre">Жанр</string>
+    <string name="All">Барлығы</string>
+    <string name="IT">IT</string>
+    <string name="Pedagogy">Педагогика</string>
+    <string name="English">Ағылшынша</string>
+    <string name="Turkish">Түрікше</string>
+    <string name="Math">Математика</string>
+    <string name="Business_economis">Бизнес/экономика</string>
+    <string name="Classic">Классикалық</string>
+    <string name="Autobiography">Автобиография</string>
+    <string name="Fantasy">Фантазия</string>
+    <string name="History">Тарих</string>
+    <string name="Action_and_advanture">Экшн және шытырман оқиға</string>
+    <string name="Heath_fitness">Денсаулық/Фитнес</string>
+    <string name="Humor">Юмор</string>
+    <string name="Philosophy">Философия</string>
+    <string name="Travel">Саяхат</string>
+    <string name="Poetry">Поэзия</string>
+    <string name="Amount">Данасы:</string>
+    <string name="in_use">қолдануда</string>
+    <string name="SORT_BY_NAME">АТЫ БОЙЫНША СҰРЫПТАУ</string>
+    <string name="SORT_BY_AUTHOR">АВТОР БОЙЫНША СҰРЫПТАУ</string>
+    <string name="SORT_BY_RATING">РЕЙТИНГ БОЙЫНША СҰРЫПТАУ</string>
+    <string name="FILTER_BOOKS_IN_LIBRARY">КІТАПХАНАДАҒЫ КІТАПТАРДЫ СҮЗІРУ</string>
+    <string name="Groups">Группалар</string>
+    <string name="Users_Rating">Пайдаланушылар рейтингі</string>
+    <string name="Teachers">Мұғалімдер</string>
+    <string name="Informatics">Информатика</string>
+    <string name="Please_wait">Күте тұрыңыз, ізделуде </string>
+    <string name="Edit">Өзгерту</string>
+    <string name="Delete">Өшіру</string>
+    <string name="email">Email</string>
+    <string name="login">Кіру</string>
+    <string name="forgot_password">Құпия сөзді ұмыттыңыз ба?</string>
+    <string name="passwrod">Құпиясөз</string>
+    <string name="cancell">Кері қайту</string>
+    <string name="Send">Жіберу</string>
+    <string name="Enter_rule_title">Ереженің тақырыбын енгізу</string>
+    <string name="Enter_rule_desk">Ережені енгізу</string>
+    <string name="read_the_book">Кітап оқу</string>
+    <string name="deadline">Мерзім</string>
+    <string name="rule1">Ереже #1</string>
+    <string name="rule2">Ереже #2</string>
+    <string name="rule1_text">Кітапты оқып болмайынша,келесі кітапқа көшуге болмайды.</string>
+    <string name="rule2_text">Кітапты белгіленген уақыт аралығында оқып бітіру қажет.</string>
+    <string name="upload_book_image">Кітаптің суретін енгізу</string>
+    <string name="enter_book_name">Кітаптің атын жазыңыз</string>
+    <string name="enter_author">Авторды жазыңыз</string>
+    <string name="enter_description">Мінездеме енгізіңіз</string>
+    <string name="scanner_book">QR КОД АРҚЫЛЫ СКАННЕРЛЕУ</string>
+    <string name="enter_page_number">Кітаптың бетін жазыңыз</string>
+    <string name="enter_amount_of_book">Кітаптың данасын жазыңыз</string>
+    <string name="edit_genre">Жанрды өзгерту</string>
+    <string name="add_book">Кітапты қосу</string>
+    <string name="check_internet">Интернет байланысын тексеріңіз</string>
+
+    <string name="reading_user">Оқылуда</string>
+    <string name="already_read">Оқылып қойды</string>
+    <string name="reviews">Шолулар</string>
+    <string name="description">Мінездеме</string>
+    <string name="page">Бет</string>
+    <string name="rating">Рейтинг</string>
+
+    <string name="user_profile">Пайдаланушы профилі</string>
+    <string name="rating_in_group">Топта бағалау</string>
+    <string name="point">Ұпай</string>
+    <string name="readed">Оқылған</string>
+    <string name="recommend">Ұсыну</string>
+
+    <string name="not_finished">Аяқталмаған</string>
+    <string name="are_you_sure_to_delete">Бұл кітапты жоюға сенімдісіз бе?</string>
+    <string name="are_you_sure">Сіз сенімдісіз бе ?</string>
+    <string name="yes">Иә</string>
+    <string name="no">Жоқ</string>
+    <string name="finished">Аяқталды</string>
+
+    <string name="project_developer">Жоба әзірлеушісі</string>
+
+    <string name="language_changed">Тіл өзгерді</string>
+
+    <string name="search...">Іздеу</string>
+
+</resources>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SDU</string>
+    <string name="Books">Книги</string>
+    <string name="Rules">Правила</string>
+    <string name="Group">Группа</string>
+    <string name="About">Про нас</string>
+    <string name="Change_Language">Изменить язык</string>
+    <string name="Sign_in">Войти</string>
+    <string name="Genre">Жанр</string>
+    <string name="All">Все</string>
+    <string name="IT">IT</string>
+    <string name="Pedagogy">Педагогика</string>
+    <string name="English">Англиский</string>
+    <string name="Turkish">Турецкий</string>
+    <string name="Math">Математика</string>
+    <string name="Business_economis">Бизнес/экономика</string>
+    <string name="Classic">Классический</string>
+    <string name="Autobiography">Автобиография</string>
+    <string name="Fantasy">Фантазия</string>
+    <string name="History">История</string>
+    <string name="Action_and_advanture">Действие и приключения</string>
+    <string name="Heath_fitness">Здоровье/Фитнес</string>
+    <string name="Humor">Юмор</string>
+    <string name="Philosophy">Философия</string>
+    <string name="Travel">Путешествие</string>
+    <string name="Poetry">Поэзия</string>
+    <string name="Amount">Количество:</string>
+    <string name="in_use">в использовании</string>
+    <string name="SORT_BY_NAME">СОРТИРОВКА ПО ИМЕНИ</string>
+    <string name="SORT_BY_AUTHOR">СОРТИРОВАТЬ ПО АВТОРУ</string>
+    <string name="SORT_BY_RATING">СОРТИРОВАТЬ ПО РЕЙТИНГ</string>
+    <string name="FILTER_BOOKS_IN_LIBRARY">ФИЛЬТР КНИГ В БИБЛИОТЕКЕ</string>
+    <string name="Groups">Группы</string>
+    <string name="Users_Rating">Рейтинг пользователей</string>
+    <string name="Teachers">Учителя</string>
+    <string name="Informatics">Информатика</string>
+    <string name="Please_wait">Подождите, поиск</string>
+    <string name="Edit">Изменить</string>
+    <string name="Delete">Удалить</string>
+    <string name="email">Email</string>
+    <string name="login">Войти</string>
+    <string name="forgot_password">Забыли пароль</string>
+    <string name="passwrod">Пароль</string>
+    <string name="cancell">Отмена</string>
+    <string name="Send">Отправить</string>
+    <string name="Enter_rule_title">Введите название правила</string>
+    <string name="Enter_rule_desk">Введите в стол правил</string>
+    <string name="read_the_book">Читать книгу</string>
+    <string name="deadline">Срок</string>
+    <string name="rule1">Правило #1</string>
+    <string name="rule2">Правило #2</string>
+    <string name="rule1_text">Не переходите к следующей книге, пока не прочтете ее.</string>
+    <string name="rule2_text">Необходимо закончить книгу за отведенное время.</string>
+    <string name="upload_book_image">Загрузить картинку книги</string>
+    <string name="enter_book_name">Введите название правила</string>
+    <string name="enter_author">Введите мя автора</string>
+    <string name="enter_description">Введите дискрипция</string>
+    <string name="scanner_book">СКАНИРОВАТЬ КНИГУ С QR КОД</string>
+    <string name="enter_page_number">Введите страница книгу</string>
+    <string name="enter_amount_of_book">Введите количество книгу</string>
+    <string name="edit_genre">Изменить жанр</string>
+    <string name="add_book">Добавлять книгу</string>
+    <string name="check_internet">Проверьте интернет-соединение</string>
+
+    <string name="reading_user">Читающий пользователь</string>
+    <string name="already_read">Уже прочитано</string>
+    <string name="reviews">Обзоры</string>
+    <string name="description">Дискрипция</string>
+    <string name="page">Страниц</string>
+    <string name="rating">Рейтинг</string>
+
+    <string name="user_profile">Профиль пользователя</string>
+    <string name="rating_in_group">Рейтинг в группе</string>
+    <string name="point">Балл</string>
+    <string name="readed">Прочитано</string>
+    <string name="recommend">Рекомендовать</string>
+
+    <string name="not_finished">Не закончена</string>
+    <string name="are_you_sure_to_delete">Вы уверены, что хотите удалить эту книгу?</string>
+    <string name="are_you_sure">Уверены ли вы ?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="finished">Закончена</string>
+
+    <string name="project_developer">Разработчик проекта</string>
+
+    <string name="language_changed">Язык изменен</string>
+
+    <string name="search...">Поиск</string>
+</resources>

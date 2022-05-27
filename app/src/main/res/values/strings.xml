@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name" translatable="false">Book Crossing</string>
+    <string name="Books">Books</string>
+    <string name="Rules">Rules</string>
+    <string name="About">About us</string>
+    <string name="Change_Language">Change language</string>
+    <string name="Sign_in">Sign in</string>
+    <string name="Genre">Genre</string>
+    <string name="All">All</string>
+    <string name="IT">IT</string>
+    <string name="Pedagogy">Pedagogy</string>
+    <string name="English">English</string>
+    <string name="Turkish">Turkish</string>
+    <string name="Math">Math</string>
+    <string name="Business_economis">Business/economis</string>
+    <string name="Classic">Classic</string>
+    <string name="Autobiography">Autobiography</string>
+    <string name="Fantasy">Fantasy</string>
+    <string name="History">History</string>
+    <string name="Action_and_advanture">Action and advanture</string>
+    <string name="Heath_fitness">Heath/fitness</string>
+    <string name="Humor">Humor</string>
+    <string name="Philosophy">Philosophy</string>
+    <string name="Travel">Travel</string>
+    <string name="Poetry">Poetry</string>
+    <string name="Amount">Amount:</string>
+    <string name="in_use">in use</string>
+    <string name="SORT_BY_NAME">SORT BY NAME</string>
+    <string name="SORT_BY_AUTHOR">SORT BY AUTHOR</string>
+    <string name="SORT_BY_RATING">SORT BY RATING</string>
+    <string name="FILTER_BOOKS_IN_LIBRARY">FILTER BOOKS IN LIBRARY</string>
+    <string name="Groups">Groups</string>
+    <string name="Group">Group:</string>
+    <string name="Users_Rating">Users Rating</string>
+    <string name="Teachers">Teachers</string>
+    <string name="Informatics">Informatics</string>
+    <string name="Please_wait">Please wait,searching </string>
+    <string name="Edit">Edit</string>
+    <string name="Delete">Delete</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="passwrod">Password</string>
+    <string name="cancell">Cancel</string>
+    <string name="Send">Send</string>
+    <string name="Enter_rule_title">Enter rule title</string>
+    <string name="Enter_rule_desk">Enter rule desk</string>
+    <string name="read_the_book">Read the book</string>
+    <string name="deadline">Deadline</string>
+    <string name="rule1">Rule #1</string>
+    <string name="rule2">Rule #2</string>
+    <string name="rule1_text">Do not move on to the next book until you have read it.</string>
+    <string name="rule2_text">It is necessary to finish the book in the allotted time.</string>
+    <string name="upload_book_image">Upload Book Image</string>
+    <string name="enter_book_name">Enter_book_name</string>
+    <string name="enter_author">Enter author</string>
+    <string name="enter_description">Enter description</string>
+    <string name="scanner_book">SCANNER BOOK QR CODE</string>
+    <string name="enter_page_number">Enter page number</string>
+    <string name="enter_amount_of_book">Enter amount of book</string>
+    <string name="edit_genre">Edit genre</string>
+    <string name="add_book">Add book</string>
+    <string name="check_internet">Check internet connection</string>
+
+    <string name="reading_user">Reading user</string>
+    <string name="already_read">Already read</string>
+    <string name="reviews">Reviews</string>
+    <string name="description">Description</string>
+    <string name="page">Page</string>
+    <string name="rating">Rating</string>
+
+    <string name="user_profile">User profile</string>
+    <string name="rating_in_group">Rating in group</string>
+    <string name="point">Point</string>
+    <string name="readed">Readed</string>
+    <string name="recommend">Recommend</string>
+
+    <string name="not_finished">Not finished</string>
+    <string name="are_you_sure_to_delete">Are you sure to delete this book ?</string>
+    <string name="are_you_sure">Are you sure ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="finished">Finished</string>
+
+    <string name="project_developer">Project developer</string>
+
+    <string name="language_changed">Language changed</string>
+
+    <string name="search...">Search...</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

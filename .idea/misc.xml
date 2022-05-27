@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/drawable/border_shadow.xml" value="0.193" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/drawable/box_shadow.xml" value="0.1995" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/drawable/button_selector.xml" value="0.2" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/drawable/custom_background.xml" value="0.1995" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/drawable/gradient1.xml" value="0.216" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/drawable/gradient2.xml" value="0.2165" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/drawable/gradient3.xml" value="0.2165" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.1615" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.2165" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/drawable/ic_baseline_book_24.xml" value="0.1615" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/drawable/ic_baseline_format_list_bulleted_24.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/drawable/ic_baseline_stars_24.xml" value="0.2165" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/drawable/ic_outline_error_outline_24.xml" value="0.1035" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/drawable/rotate.xml" value="0.1035" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/drawable/titlebar_menu_selector.xml" value="0.2" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/font/thin_font.xml" value="0.30104166666666665" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout-v31/activity_user_profile.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/AboutUs.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/Aboutus.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/Language.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/Profile.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/aboutus.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/activity_book_home_page.xml" value="0.264" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/activity_group_users.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/activity_groups.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/activity_home_profile.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/activity_main_2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/activity_sign_in.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/activity_user_profile.xml" value="0.28" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/book_item_layout.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/calendar.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/fragment_about_us.xml" value="0.4" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/fragment_already__readed__framgent.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/fragment_already__readed_item_layout.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/fragment_book.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/fragment_description_.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/fragment_group.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/fragment_group__users_.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/fragment_group__users__item_layout.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/fragment_language.xml" value="0.264" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/fragment_r_ules.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/fragment_reading__user_.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/fragment_reviews__bhp.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/fragment_reviews_bhp_item_layout.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/fragment_rules.xml" value="0.4" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/fragment_sign_in.xml" value="0.4" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/fragment_user__profile__readed_.xml" value="0.264" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/fragment_user__profile__reading_.xml" value="0.4" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/fragment_user__profile__recommend_.xml" value="0.264" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/fragment_user__profile__reviews_.xml" value="0.264" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/fragment_user_rating.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/group_item_layout.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/groups_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/home.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/language.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/layout_custom_dialog.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/profile.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/reviews_item_layout.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/settings.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/sign_in.xml" value="0.264" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/user_profile_readed_item_layout.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/user_profile_recommended_item_layout.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/layout/userrating_item_layout.xml" value="0.4970414201183432" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/menu/menu_rule.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/menu/menu_rule2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/View_BInding_Tutorial/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2" />
+        <entry key="..\:/Users/Asus/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
